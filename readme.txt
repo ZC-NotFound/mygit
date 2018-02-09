@@ -1,4 +1,6 @@
 hello world git
 new line
 two
-branch 
+branch
+1=1=1
+hello 
