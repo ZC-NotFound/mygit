@@ -3,4 +3,5 @@ new line
 two
 branch
 1=1=1
-hello 
+hello
+fix bug 
